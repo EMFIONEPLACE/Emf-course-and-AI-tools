@@ -1,5 +1,4 @@
-# Emf-course-and-AI-tools
-EMF India course and AI tools at one place 
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
